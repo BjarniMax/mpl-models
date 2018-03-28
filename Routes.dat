@@ -1,0 +1,32 @@
+"Washington","New York",237
+"Washington","Columbus",420
+"Washington","Atlanta",632
+"Washington","Miami",1043
+"Washington","Chicago",715
+"New York","Columbus",556
+"New York","Miami",1281
+"New York","Chicago",821
+"Columbus","Atlanta",571
+"Columbus","Chicago",361
+"Columbus","Memphis",596
+"Atlanta","Miami",661
+"Atlanta","Chicago",716
+"Atlanta","Memphis",394
+"Atlanta","San Antonio",993
+"Miami","Atlanta",661
+"Miami","San Antonio",1381
+"Chicago","Memphis",536
+"Chicago","San Antonio",1202
+"Chicago","Denver",1011
+"Chicago","Seattle",2072
+"Memphis","San Antonio",728
+"Memphis","Denver",1095
+"San Antonio","Denver",931
+"San Antonio","Los Angeles",1372
+"Denver","San Francisco",1257
+"Denver","Los Angeles",1023
+"Denver","Seattle",1303
+"San Francisco","Los Angeles",380
+"San Francisco","Seattle",820
+"Los Angeles","San Francisco",380
+"Seattle","San Francisco",820
